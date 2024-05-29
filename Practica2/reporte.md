@@ -5,6 +5,7 @@
 En esta práctica se desarrolla una aplicación de banco que llevará los siguientes conceptos: Clases, Objetos, Abstracción de datos, Encapsulamiento, Herencia y Polimorfismo.
 
 [Enlace al código](git@github.com:ConnyB1/paradigmas.git)
+git@github.com:ConnyB1/paradigmas.git
 
 ## Funcionamiento
 
