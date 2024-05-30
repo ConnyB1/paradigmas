@@ -1,0 +1,12 @@
+﻿  snake.cpp
+C:\Users\costco\paradigmas\snake\snake\snake.cpp(456,53): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\costco\paradigmas\snake\snake\snake.cpp(457,53): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\costco\paradigmas\snake\snake\snake.cpp(473,71): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\costco\paradigmas\snake\snake\snake.cpp(474,71): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\costco\paradigmas\snake\snake\snake.cpp(489,65): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\costco\paradigmas\snake\snake\snake.cpp(490,65): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\costco\paradigmas\snake\snake\snake.cpp(492,23): warning C4101: 'tailSprite': variable local sin referencia
+C:\Users\costco\paradigmas\snake\snake\snake.cpp(476,27): warning C4101: 'tailSprite': variable local sin referencia
+  snake.vcxproj -> C:\Users\costco\paradigmas\snake\snake\x64\Debug\snake.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.
