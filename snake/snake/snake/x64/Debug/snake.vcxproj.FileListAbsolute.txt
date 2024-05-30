@@ -1,2 +1,0 @@
-C:\Users\costco\paradigmas\snake\snake\x64\Debug\raylib.dll
-C:\Users\costco\paradigmas\snake\snake\snake\x64\Debug\snake.vcxproj.Up2Date
